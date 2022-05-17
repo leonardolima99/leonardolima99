@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋 
+## My name is Leonardo Lima Coelho, and I am a software developer.
 <div align="center">
   <a href="https://github.com/leonardolima99" style="text-decoration: none">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardolima99&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
