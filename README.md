@@ -8,7 +8,26 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolima99&layout=compact&langs_count=7&theme=github_dark" />
   </a>
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Leonardo-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Leonardo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Leonardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Leonardo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Leonardo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Leonardo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
   
+
+<!--
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardolima99&repo=tasks&show_owner=true&theme=github_dark" />
+</a>
+</div>
+-->
+ 
 <!--
 **leonardolima99/leonardolima99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
