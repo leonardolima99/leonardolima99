@@ -2,11 +2,17 @@
 ## My name is Leonardo Lima Coelho, and I am a software developer.
 <div align="center">
   <a href="https://github.com/leonardolima99" style="text-decoration: none">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardolima99&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leonardolima99&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardolima99&show_icons=true&theme=default_repocard&include_all_commits=true&count_private=true" />
+    </picture>
   </a>
   
   <a href="https://github.com/leonardolima99">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolima99&layout=compact&langs_count=7&theme=github_dark" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolima99&layout=compact&langs_count=7&theme=github_dark">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolima99&layout=compact&langs_count=7&theme=default_repocard" />
+    </picture>
   </a>
 </div>
 
